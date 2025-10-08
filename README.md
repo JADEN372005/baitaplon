@@ -128,19 +128,8 @@ src/
   - Lịch sử check-in
   - Thông tin streak
 
----
-
-## 🚀 Hướng dẫn Cài đặt & Chạy
-
-### **Yêu cầu:**
-- Java 17 trở lên  
-- IDE khuyến nghị: IntelliJ IDEA hoặc Eclipse
-
----
-
-## 📈 Mục tiêu Tương lai (Phiên bản 2.0)
-
 * Hỗ trợ **đồng bộ hóa đám mây** (Google Drive / Firebase)
 * Giao diện **dark mode / theme tùy chọn**
 * Biểu đồ trực quan về tiến độ thói quen
 * Chức năng **nhắc nhở tự động**
+
