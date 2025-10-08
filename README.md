@@ -144,6 +144,3 @@ src/
 * Giao diện **dark mode / theme tùy chọn**
 * Biểu đồ trực quan về tiến độ thói quen
 * Chức năng **nhắc nhở tự động**
-
-```
-```
