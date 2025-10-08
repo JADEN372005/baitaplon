@@ -41,6 +41,10 @@
 | FR1.2 | Xem danh sách thói quen cần thực hiện trong **ngày hiện tại**, kèm Streak hiện tại | Cao |
 | FR1.3 | Chỉnh sửa hoặc xóa thói quen | Trung bình |
 
+<p align="center">
+  <img src="ERD_diagram.png" width="400">
+</p>
+
 ---
 
 ### **FR2. Theo dõi & Logic Streak**
@@ -131,5 +135,4 @@ src/
 * Giao diện **dark mode / theme tùy chọn**
 * Biểu đồ trực quan về tiến độ thói quen
 * Chức năng **nhắc nhở tự động**
-
 
