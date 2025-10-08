@@ -1,7 +1,6 @@
 # 🧩 StreakFlow - Ứng dụng Theo dõi Thói quen (Java Desktop)
 
 **Phiên bản:** 1.0 (MVP)  
-**Ngày phát hành:** 08/10/2025  
 **Nền tảng:** Ứng dụng Desktop cho Windows (Java)
 
 ---
@@ -132,4 +131,5 @@ src/
 * Giao diện **dark mode / theme tùy chọn**
 * Biểu đồ trực quan về tiến độ thói quen
 * Chức năng **nhắc nhở tự động**
+
 
